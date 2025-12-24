@@ -1,17 +1,17 @@
-#  Kullanıcı Bilgi ve Rol Kontrolü
+##  Kullanıcı Bilgi ve Rol Kontrolü
 
-#  Basit bir JavaScript uygulaması. Kullanıcıdan ad, yaş ve çalışma durumu bilgilerini alır ve rolüne göre yetkilerini gösterir.
+###  Basit bir JavaScript uygulaması. Kullanıcıdan ad, yaş ve çalışma durumu bilgilerini alır ve rolüne göre yetkilerini gösterir.
 
-#  Özellikler
+##  Özellikler
 
-#  Yaşa göre durum belirler (reşit değil, çalışma çağında, emekli).
+###  Yaşa göre durum belirler (reşit değil, çalışma çağında, emekli).
 
-#  Rolüne göre yetkileri gösterir (admin, editor, user).
+###  Rolüne göre yetkileri gösterir (admin, editor, user).
 
-#  Kullanım
+##  Kullanım
 
-#  Tarayıcıda çalıştırın.
+###  Tarayıcıda çalıştırın.
 
-#  Prompt ve confirm pencereleri ile bilgilerinizi girin.
+###  Prompt ve confirm pencereleri ile bilgilerinizi girin.
 
-#  Konsolda sonuçları görün.
+###  Konsolda sonuçları görün.
